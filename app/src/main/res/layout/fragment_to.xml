@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".toFragment">
+
+    <TextView
+        android:layout_width="309dp"
+        android:layout_height="447dp"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:text="TO (Teknik Otomotif), Jurusan Teknik Otomotif akan mempelajari terkait segala cara maupun proses dalam pengoperasian dan pembuatan kendaraan yang beroperasi di darat seperti mobil, truk, motor, kereta, serta bus."
+        android:textColor="@color/teal_700"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+</FrameLayout>

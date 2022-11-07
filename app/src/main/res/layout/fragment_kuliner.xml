@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".kulinerFragment">
+
+    <TextView
+        android:layout_width="309dp"
+        android:layout_height="447dp"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:text="KULINER, Membekali peserta didik dengan keterampilan, dan sikap agar kompeten dalam mengolah dan menyajikan makanan kontinental, dan makanan Indonesia yang terdiri dari makanan pembuka, makanan pokok, lauk pauk, dan makanan penutup, serta melayani makan dan minum baik di restoran maupun di kamar tamu, Serta menata meja makan dan meja prasmanan."
+        android:textColor="@color/teal_200"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+</FrameLayout>
